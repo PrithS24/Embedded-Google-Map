@@ -1,1 +1,2 @@
-http://127.0.0.1:5500/Gmap/index.html
+
+https://priths24.github.io/Embedded-Google-Map/
